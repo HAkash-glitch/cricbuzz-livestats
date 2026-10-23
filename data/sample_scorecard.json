@@ -1,0 +1,8 @@
+{"scoreCard":[{"matchId":900101,"inningsId":1,"batTeamDetails":{"batTeamName":"Team B","batsmenData":{
+"bat_1":{"batName":"A. Sample","runs":88,"balls":92,"fours":8,"sixes":2,"strkRate":95.6,"outDesc":"c Keeper b Bowler1"},
+"bat_2":{"batName":"B. Example","runs":61,"balls":70,"fours":5,"sixes":1,"strkRate":87.1,"outDesc":"lbw b Bowler2"},
+"bat_3":{"batName":"C. Demo","runs":47,"balls":31,"fours":3,"sixes":3,"strkRate":151.6,"outDesc":"not out"}}},
+"bowlTeamDetails":{"bowlersData":{
+"bowl_1":{"bowlName":"D. Pace","overs":10,"maidens":1,"runs":52,"wickets":3,"economy":5.2},
+"bowl_2":{"bowlName":"E. Spin","overs":10,"maidens":0,"runs":61,"wickets":2,"economy":6.1}}},
+"scoreDetails":{"runs":284,"wickets":8,"overs":50}}]}
